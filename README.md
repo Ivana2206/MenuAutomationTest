@@ -22,8 +22,9 @@ Requirements
 
 In order to utilise this project you need to have the following installed locally:
 
-Chrome and Chromedriver (UI tests use Chrome by default)
+Chrome (UI tests use Chrome by default) and chromedriver (which is already added inside the project)
 JDK 11
+Maven 3
 
 
 Usage
