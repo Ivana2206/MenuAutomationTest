@@ -16,7 +16,7 @@ Maven
 Selenium Webdriver
 Eclipse
 JDK 11
-
+chromedriver
 
 Requirements
 
