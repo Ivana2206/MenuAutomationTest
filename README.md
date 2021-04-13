@@ -32,11 +32,15 @@ Usage
 Download the zip or clone the Git repository.
 Unzip the zip file (if you downloaded one).
 Open Command Prompt and Change directory (cd) to folder containing pom.xml
-To run test navigate to MenuWebApp directory and run command in cmd:
+
+To run test navigate to MenuWebApp directory and run command in cmd (Command Prompt):
 
 mvn clean test
 
-or go to directory run_TestNg\bat\test and double click on testng.bat
+
+Another option to run the test go to : 
+
+directory run_TestNg\bat\test and double click on testng.bat test will start automatically 
 
 Reporting
 
