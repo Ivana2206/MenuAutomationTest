@@ -45,7 +45,7 @@ directory run_TestNg\bat\test and double click on testng.bat test will start aut
 Reporting
 
 Reports for this module are written into  /Reports directory after a successful run.
-UI acceptance tests result in a HTML report, PDF report and XML report.
+UI tests result in a HTML report, PDF report and CSV report.
 In the case of test failures, a screen-shoot of the UI at the point of failure is embedded into the report.
 
 
